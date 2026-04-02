@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Alan Ruan  
+## 👋 Hi there, I'm Allen Ruan  
 
 ### 🧑‍💻 About Me  
 🎓 Computer Science student at **Western University**  
